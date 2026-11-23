@@ -16,4 +16,4 @@ python3 main.py   # writes /output/entry.png (or ./output/entry.png as fallback)
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=b8tj18j4&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
